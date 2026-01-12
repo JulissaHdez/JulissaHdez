@@ -45,12 +45,12 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/damarishernandezg" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://discord.com/users/TU_ID_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-jull.-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
   <a href="mailto:Djuli1999hg@gmail.com">
