@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/damarishernandezg" target="_blank">
