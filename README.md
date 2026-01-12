@@ -2,9 +2,7 @@
 <h3 align="center">Estudiante de Ingeniería en Sistemas</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/S9RnJWRWoiRZlHgaHa/giphy.gif"
-       alt="Duck working"
-       width="300"/>
+  <img src="./duck.gif" alt="Duck working" width="300"/>
 </p>
 
 
