@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Damaris Julissa Hernández</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas</h3>
+<h3 align="center">👩🏻‍💻 Estudiante de Ingeniería en Sistemas</h3>
 
 <p align="center">
   <img src="./duck.gif" alt="Duck working" width="300"/>
@@ -7,7 +7,7 @@
 
 ---
 
-### 👩‍💻 Sobre mí
+### 👩🏻‍💻 Sobre mí
 - 🎓 Estudiante de **Ingeniería en Sistemas**
 - 💻 Interesada en **desarrollo web y sistemas**
 - 🚀 En constante aprendizaje de nuevas tecnologías
