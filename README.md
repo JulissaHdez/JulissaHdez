@@ -36,14 +36,13 @@
 
 ### 📧 Email
 <p>
-  <a href="mailto:Djuli1999hg@gmail.com">
-    Djuli1999hg@gmail.com
-  </a>
+📨 <a href="mailto:Djuli1999hg@gmail.com"><b>Djuli1999hg@gmail.com</b></a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/damarishernandezg" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -54,12 +53,12 @@
   </a>
 
   <a href="mailto:Djuli1999hg@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-Djuli1999hg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ Gracias por visitar mi perfil ✨
+✨ Gracias por visitar mi perfil ✨
 </p>
