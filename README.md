@@ -15,6 +15,34 @@
 
 ---
 
+## 💼 Trabajos recientes
+
+### 💄 Sistema gestor de citas para salón de belleza
+📌 Aplicación para la administración de citas, clientes y servicios de un salón de belleza.  
+🔗 **Repositorio:**  
+https://github.com/cromk/salon_belleza
+
+---
+
+### 🏠 Sistema informático para gestión de proyectos de vivienda
+📌 Sistema orientado a la planificación, control y seguimiento de proyectos habitacionales.  
+🔗 **Repositorio:**  
+https://github.com/ByteBusters-TOO/SYSGPV
+
+---
+
+### 🎓 Sistema de gestión de clases en línea
+📌 Plataforma web para la administración de clases virtuales, usuarios y contenidos educativos.  
+🔗 **Repositorio:**  
+https://github.com/Danield05/plataforma-clases-online
+
+---
+
+### 🍽️ Proyecto de comandas para restaurante
+📌 Sistema para la gestión de pedidos, comandas y control de órdenes en restaurantes.  
+🔗 **Repositorio:**  
+https://github.com/JulissaHdez/Comanda
+
 ### 🛠️ Tecnologías que uso
 
 #### 👩‍💻 Lenguajes de Programación
