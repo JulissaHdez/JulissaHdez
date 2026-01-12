@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Damaris</h1>
+<h1 align="center">Hola 👋, soy Damaris Julissa Hernández</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas</h3>
 
 <p align="center">
