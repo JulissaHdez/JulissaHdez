@@ -34,21 +34,27 @@
 
 ---
 
-### 🔗 Conecta conmigo
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Contacto-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-
-  <!-- Email -->
+### 📧 Email
+<p>
   <a href="mailto:Djuli1999hg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Djuli1999hg%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    Djuli1999hg@gmail.com
+  </a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.com/users/TU_ID_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+  <a href="mailto:Djuli1999hg@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
