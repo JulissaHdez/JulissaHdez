@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<!--
+<!--<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2pmem52bGNpNTVpNGhrb2g0bHhmYzNvbnM0Ynk2NzR0NGl6NHd1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif" 
+       alt="GIF de pato trabajando" 
+       width="300"/>
+</p>
+
 **JulissaHdez/JulissaHdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
