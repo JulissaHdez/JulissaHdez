@@ -53,14 +53,14 @@
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulissaHdez&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulissaHdez&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JulissaHdez&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&v=1" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulissaHdez&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&v=1" width="48%"/>
 </p>
+
 
 ---
 
